@@ -107,5 +107,5 @@ spotify-music-analysis/
 
 ## 👤 Author
 
-**Your Name**
+**Danylo Demchuk**
 [LinkedIn](https://www.linkedin.com/in/danylo-demchuk-da) · [GitHub](https://github.com/MelloWingg)
