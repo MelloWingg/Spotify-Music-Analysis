@@ -4,7 +4,6 @@ An exploratory data analysis project investigating what makes a song popular on 
 
 ##  Notebook
 
-🔗 **[View Notebook on Kaggle/GitHub](https://github.com/)**
 
 ![Analysis Preview](notebook_preview.png)
 
